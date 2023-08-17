@@ -12,6 +12,7 @@ FrontEnd Developer and System Development and Analysis Student
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" />
 </div>
 <br />
 Twice a monitor in Programming Logic and Web Development. Always striving to make an impact on people's lives with programming and constantly learning new things every day.
