@@ -7,7 +7,7 @@ FullStack and Mobile Developer | System Development and Analysis Student
 
 <div>
   <h3>Main Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,docker,vscode,react,next,tailwind,graphql,nodejs,express,prisma,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,docker,vscode,react,next,tailwind,vue,graphql,nodejs,express,prisma,figma" />
   <img height="50" width="60" src="https://logowik.com/content/uploads/images/expo4769.logowik.com.webp" />
 </div>
 <br />
