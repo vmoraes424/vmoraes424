@@ -1,6 +1,6 @@
 # Vinícius Moraes
 
-FullStack and Mobile Developer | System Development and Analysis Student
+FullStack and Mobile Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Moraes-09f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vmoraes424/)](https://www.linkedin.com/in/vmoraes424/)
 [![Gmail Badge](https://img.shields.io/badge/-vmoraes424@gmail.com-09f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmoraes424@gmail.com)](mailto:vmoraes424@gmail.com)
