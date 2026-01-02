@@ -7,7 +7,7 @@ FullStack and Mobile Developer
 
 <div>
   <h3>Main Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,go,git,docker,postgres,vscode,react,electron,next,tailwind,vue,graphql,nodejs,express,prisma,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,go,git,docker,postgres,vscode,react,electron,next,tailwind,vue,graphql,rabbitmq,nodejs,express,prisma,figma" />
 </div>
 <br />
 Always striving to make an impact on people's lives with programming and constantly learning new things every day.
